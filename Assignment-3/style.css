@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 40px;
+    font-style: italic;
+}
+.section{
+    width: 400px;
+    margin:40px auto;
+    text-align: left;
+    border-top:2px solid #6bb6d6;
+    padding: 20px;
+}
+.logo{
+    width:150px;
+    display:block;
+    margin:0 auto 20px auto;
+}
+h1{
+    text-align: center;
+    font-size: medium;
+    letter-spacing: 3px;
+}
+h2{
+    color:rgb(255, 72, 0);
+    font-size: 20px;
+    font-style: normal;
+}
+p{
+    line-height: 1;
+}
